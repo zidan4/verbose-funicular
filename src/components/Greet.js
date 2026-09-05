@@ -1,11 +1,9 @@
 import React from 'react';
 
-const Greet = () => {
+export  const Greet = () => {
   return (
     <>
-      <h1>Hello, World</h1>
+      <p>Hello, World</p>
     </>
   )
 }
-
-export default Greet;
